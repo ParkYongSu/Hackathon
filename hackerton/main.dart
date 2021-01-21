@@ -12,4 +12,8 @@ class MyApp extends StatelessWidget{
       ),
     );
   }
+
+  onClick(){
+    print('핵심 서비스');
+  }
 }
